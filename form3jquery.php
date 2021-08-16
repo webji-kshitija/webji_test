@@ -71,8 +71,7 @@
 		        <option>444602</option>
 		        <option>444605</option>
 		        <option>444607</option>
-                <option>444608</option>
-		        <option>OTHER</option>
+                <option>444608</option> <option>OTHER</option>
 		    </select>
     	</div>
     	<div class="col-md-6">
